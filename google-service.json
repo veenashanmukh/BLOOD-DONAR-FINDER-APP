@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485231787252",
+    "project_id": "blood-donar-finder-384c7",
+    "storage_bucket": "blood-donar-finder-384c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485231787252:android:3fada05080622f28aeb2a1",
+        "android_client_info": {
+          "package_name": "com.RIYA.blooddonor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWmmSl5HFnF7J5EFJJSiFhQX-c_63ED3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
